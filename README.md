@@ -143,6 +143,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any inquiries, please contact `shauryamsingh9@gmail.com`.
+For any inquiries, please contact `adityasolanki192004@@gmail.com`.
 
 ---
